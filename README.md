@@ -1,5 +1,3 @@
-# CrossSellAI-Customer-Subscription-Prediction
-Machine Learning based customer subscription prediction system using Gradient Boosting and Streamlit
 # CrossSellAI — Customer Subscription Prediction
 
 A machine learning project that predicts the likelihood of a customer subscribing to a service using customer-related features and a Gradient Boosting Classifier.
